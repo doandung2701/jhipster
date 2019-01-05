@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.fis.shoppingapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "monolith",
+    "baseName": "Jhipster",
+    "packageName": "com.fis.shoppingapp",
+    "packageFolder": "com/fis/shoppingapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDQ5OGZmMzkwYTdkOWY3MzM5ZWZhNDIzYzhmMDlkODYxMjhjNWFlYmE4MTE0ZTU5NTA4N2M1OTU4NGJmNzc3YzkzMmFjZDBhOWRhMWZhZTE3YzJlYjc2ZjM1NWNiMjE3N2Q1ZmExNDU5ODA0MDgwZjM5MGFmNDQ3YWJkODMwOWU=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"]
+  }
+}
